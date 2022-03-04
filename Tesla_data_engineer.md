@@ -16,8 +16,8 @@ We're looking for a talented engineer to join us as a foundational member of the
 > - Work with data engineers and data scientists to drive efficient solutions from the platform
 > - Help define the data story and enable data-driven solutions at Tesla, both technically and culturally
 ####Requirements
-> - Strong programming fundamentals, particularly in data structures, concurrency, Go, Python, and Java
-> - Deep understanding of a complex distributed system, such as Kafka, Spark, HBase, ElasticSearch
+> - Strong programming fundamentals, particularly in **data structures**, concurrency, Go, Python, and Java
+> - Deep understanding of a **complex distributed system**, such as Kafka, Spark, HBase, ElasticSearch
 > - Have built and optimized highly available, scalable, distributed back-end services
 > - Ability to break down and deeply understand complex problems and communicate complex matters efficiently
 > - Strong problem solving skills, optimizing for the simplest, most robust yet practical solutions

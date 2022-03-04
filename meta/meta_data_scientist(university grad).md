@@ -26,3 +26,4 @@ Experience working and communicating cross functionally in a team environment.
 
 [Job description link](https://www.metacareers.com/v2/jobs/515345600032474/)
 Research Data Scientist (University Grad)
+https://www.metacareers.com/v2/jobs/1364425434022172/
