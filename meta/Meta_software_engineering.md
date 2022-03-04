@@ -1,6 +1,7 @@
 ## Meta
 Software Engineer, University Grad 
-####Responsibilities:
+
+#### Responsibilities:
 > 
 > - Develop a strong understanding of relevant product area, codebase, and/or systems
 > - Demonstrate proficiency in **data analysis**, programming and software engineering
@@ -13,7 +14,7 @@ Produce high quality code with good test coverage, using modern abstractions and
 > - Experience coding in an industry-standard language (e.g. Java, Python, C++, JavaScript)
 > - Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment
 
-####Preferred Qualifications:
+#### Preferred Qualifications:
 > - Demonstrated software engineering experience from previous internship, work experience, coding competitions, or publications
 > - Demonstrated problem solving skills and ability to compare alternative solutions, trade offs, and differing points of view when building a feature or product
 > - Demonstrated success working and communicating cross functionally in a team environment
