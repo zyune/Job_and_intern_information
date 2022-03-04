@@ -3,17 +3,17 @@ The Infrastructure Data Science and Engineering group uses statistical and machi
 Ideal candidates are passionate about Meta’s mission and products, possess **strong analytical** aptitude and coding ability, have excellent collaborative and communication skills, and have hands-on experience working on projects using predictive **modeling**, **pattern mining**, **optimization**, and other quantitative methods.
 
 ### Research Data Scientist (University Grad) Responsibilities
-> - Identify appropriate quantitative methods and build relevant data sets to address challenges across different domains in Meta’s infrastructure.
-> - Develop statistical and machine learning solutions end-to-end through the full life cycle of prototyping, testing, evaluating, deploying and maintaining them at Meta scale.
-> - Develop measurement solutions and experimentation frameworks to ensure effective data-driven decision making.
-> - Form close collaborative relationships with other data scientists and engineering partners and contribute to team projects through model development and analyses.
-> - Communicate project results and recommendations to stakeholders and cross-functional partners.
-###Minimum Qualifications
+> - ***Identify appropriate quantitative methods*** and ***build relevant data sets*** to address challenges across different domains in Meta’s infrastructure.
+> - **Develop statistical and machine learning solutions** end-to-end through the full life cycle of prototyping, testing, evaluating, deploying and maintaining them at Meta scale.
+> - Develop measurement solutions and experimentation frameworks to ensure effective data-driven decision making. (very confused on this one )
+> - **Form close collaborative relationships** with other data scientists and engineering partners and contribute to team projects through model development and analyses.
+> - **Communicate** project results and recommendations to stakeholders and cross-functional partners.
+### Minimum Qualifications
 > - Experience applying **statistical** and **machine learning** techniques such as hypothesis testing, time series analysis, classification, regression, and clustering to real-world data sets.
 > - Experience performing data extraction, manipulation, and visualization using programming languages (e.g., Python), scientific computing languages (e.g., R, MATLAB), or **SQL**.
-> - Experience with **at least one programming language** (e.g., Python, Java, C++).
-> - Experience with scientific computing and analysis packages such as **NumPy, SciPy, Pandas, Scikit-learn, dplyr, caret**.
-> - Experience with data visualization libraries such as **Matplotlib**, **Pyplot, seaborn, ggplot2**.
+> - Experience with ***at least one programming language*** (e.g., Python, Java, C++).
+> - Experience with scientific computing and analysis packages such as ***NumPy, SciPy, Pandas, Scikit-learn, dplyr, caret***.
+> - Experience with data visualization libraries such as ***Matplotlib, Pyplot, seaborn, ggplot2***.
 > - Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment.
 > - Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta.
 
